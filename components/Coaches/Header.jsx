@@ -12,12 +12,7 @@ const Header = () => {
 
         <div className="medium-6 medium-offset-0 large-5 cell large-offset-1">
           <p className="hero-text">
-            developers
-            <br /> designers
-            <br /> marketers
-            <br /> business&nbsp;analysts
-            <br /> data scientists
-            <br /> &amp; other digital skills
+            for people commited to open tech
           </p>
           <div className="osoc-float-element-s" />
         </div>
