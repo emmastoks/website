@@ -21,15 +21,15 @@ const PracticalTabs = () => {
       </li>
       <li className="tabs-title">
         <h2>
-          <a data-tabs-target="partners" href="#partners">
-            Partnerships
+          <a data-tabs-target="coaching" href="#coaching">
+            Coaching
           </a>
         </h2>
       </li>
       <li className="tabs-title">
         <h2>
-          <a data-tabs-target="coaching" href="#coaching">
-            Coaching
+          <a data-tabs-target="partners" href="#partners">
+            Partnerships
           </a>
         </h2>
       </li>
