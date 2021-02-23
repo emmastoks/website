@@ -8,8 +8,8 @@ const HomeHeader = () => {
         <div className="grid-x grid-padding-x">
           <div className="medium-8 large-7 cell">
             <h2 className="hero-head">
-              Innovative open source projects, made by incredibly motivated students, coaches &amp;
-              organisations.
+              Here to accelarate societal change. 
+              Cool stuff happens when you unite the power of tech with the power of the people.
             </h2>
           </div>
           <div className="medium-10 large-5 cell large-offset-1">
