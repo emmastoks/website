@@ -7,6 +7,8 @@ const OsocDescription = () => {
             OSOC is a 4-week accelerator, bringing together the <strong>brightest</strong> students 
             with the most >strong>pressing</strong> societal problems.
             Our projects create a win-win-win, as students, organizations and society benefit 
-            from the power of <strong>open-source</strong>. </p>
+            from the power of <strong>open-source</strong>. 
+            </p>
+            </div>
     
 export default OsocDescription;
