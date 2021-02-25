@@ -135,43 +135,6 @@ const Footer = () => {
                 <img src={W2012} alt="2012 osoc logo" />
               </a>
             </div>
-            <div className="small-2 medium-auto cell">
-              <a href="http://2013.summerofcode.be">
-                <img src={W2013} alt="2013 osoc logo" />
-              </a>
-            </div>
-            <div className="small-2 medium-auto cell">
-              <a href="http://2014.summerofcode.be">
-                <img src={W2014} alt="2014 osoc logo" />
-              </a>
-            </div>
-            <div className="small-2 medium-auto cell">
-              <a href="http://2015.summerofcode.be">
-                <img src={W2015} alt="2015 osoc logo" />
-              </a>
-            </div>
-            <div className="small-2 medium-auto cell">
-              <a href="http://2016.summerofcode.be">
-                <img src={W2016} alt="2016 osoc logo" />
-              </a>
-            </div>
-            <div className="small-2 medium-auto cell">
-              <a href="http://2017.summerofcode.be">
-                <img src={W2017} alt="2017 osoc logo" />
-              </a>
-            </div>
-            <div className="small-2 medium-auto cell">
-              <a href="http://2018.summerofcode.be">
-                <img src={W2018} alt="2018 osoc logo" />
-              </a>
-            </div>
-            <div className="small-2 medium-auto cell">
-              <Link href="/editions/2019">
-                <a>
-                  <img src={W2019} alt="2019 osoc logo" />
-                </a>
-              </Link>
-            </div>
           </div>
         </div>
         <div className="small-12 large-5 large-offset-1 cell">
