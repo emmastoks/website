@@ -10,5 +10,6 @@ const OsocDescription = () => {
             from the power of <strong>open-source</strong>. 
             </p>
             </div>
+      </div>
     
 export default OsocDescription;
