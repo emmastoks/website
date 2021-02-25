@@ -6,20 +6,15 @@
     "logo": "/editions/2020/projects/osoc.svg",
     "team": {
       "students": [
-        "17d0c9ff-9fb9-4ab1-a81e-7131b20cb914",
-        "79bda737-f898-4291-9c42-2aff02fa627c",
-        "479343d5-22a2-4a15-89c4-0db995ae67c8",
-        "245c97c4-a169-408b-b7f0-7ca9d0f0090c"
+        
       ],
       "coaches": [
-        "4f521e2a-7816-4f03-b4a6-e260a75b65c3",
-        "3c3aa3f6-09ef-44a0-88ae-7719911f0f48",
-        "41204324-b01c-46ed-a062-f9884415d0fa"
+        
       ]
     },
     "repository": "https://github.com/osoc20",
     "website": null,
-    "partners": ["openknowledgebe"],
+    "partners": [],
     "breakout": {
       "startsAt": "July 30, 2020 14:45:00",
       "endsAt": "July 30, 2020 15:00:00",
@@ -33,16 +28,13 @@
     "logo": "/editions/2020/projects/artiffact-control.svg",
     "team": {
       "students": [
-        "3942645c-5ae5-4d5e-8a38-1f493fe5ff3f",
-        "e102a2d4-0a92-43ea-95d1-70436b3566d6",
-        "e623f0f7-2eff-4da0-bf8c-3a3557c58bb7",
-        "35760998-fa55-446e-ab46-1d6fe7d1aa82"
+        
       ],
-      "coaches": ["da01bfd9-e0e5-4560-b390-ed88ee1552d5"]
+      "coaches": []
     },
     "repository": "https://github.com/oSoc20/ArTIFFact-Control",
     "website": null,
-    "partners": ["meemoo"],
+    "partners": [],
     "breakout": {
       "startsAt": "July 30, 2020 14:30:00",
       "endsAt": "July 30, 2020 14:45:00",
