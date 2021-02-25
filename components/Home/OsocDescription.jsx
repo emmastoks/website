@@ -12,5 +12,6 @@ const OsocDescription = () => {
         </div>
       </div>
     </div>
-    
+   );
+ };
 export default OsocDescription;
