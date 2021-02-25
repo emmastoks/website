@@ -1,0 +1,30 @@
+[
+  {
+    "id": "9c14908c-4186-420e-b598-e511f8ef33d4",
+    "firstName": "Bert",
+    "lastName": "Jehoul",
+    "name": "Bert Jehoul",
+    "mugshot": "/editions/2020/participants/9c14908c-4186-420e-b598-e511f8ef33d4.png",
+    "socials": {
+      "twitter": "http://twitter.com/jeborsel",
+      "linkedin": "https://linkedin.com/in/bertjehoul",
+      "behance": null,
+      "github": "https://github.com/jeborsel"
+    },
+    "coach": true
+  },
+  {
+    "id": "9c14908c-4186-420e-b598-e511f8ef33d4",
+    "firstName": "Bert",
+    "lastName": "Jehoul",
+    "name": "Bert Jehoul",
+    "mugshot": "/editions/2020/participants/9c14908c-4186-420e-b598-e511f8ef33d4.png",
+    "socials": {
+      "twitter": "http://twitter.com/jeborsel",
+      "linkedin": "https://linkedin.com/in/bertjehoul",
+      "behance": null,
+      "github": "https://github.com/jeborsel"
+    },
+    "coach": true
+  }
+]
