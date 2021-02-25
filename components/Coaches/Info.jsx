@@ -15,6 +15,7 @@ const Info = () => {
               Mail&nbsp;us
             </a>
           </p>
+        </div>
         <div className="medium-8 large-5 cell large-offset-1">
           <p>
             Every student needs someone to teach them what cannot be taught in school. This is your
